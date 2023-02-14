@@ -70,6 +70,9 @@ public class Exc1 {
                     System.out.printf("%.3f * %.0f = %.3f", x, y, result);
                     break;}
         }
+//asdasd adqwe das qwd
+        if(1 == 1) {
 
+        }
     }
 }
